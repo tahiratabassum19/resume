@@ -1,0 +1,32 @@
+.upload-button-container {
+    position: relative;
+    left: 40px;
+    right: 30px;
+    top: 100px;
+    bottom: 100px;
+    font-weight: bold;
+  }
+ 
+  .mx-3 {
+    position: relative;
+    font-size: 40px;
+    color: rgb(32, 50, 45);
+    font-weight: bold;
+  }
+ 
+  .d-none {
+    position: relative;
+    font-size: 50px;
+    left: 20px;
+    color: rgb(9, 66, 51);
+    font-weight: bold;
+  }
+ 
+  .btn {
+    position: relative;
+    font-size: 50px;
+    left: 20px;
+    color: rgb(9, 66, 51);
+    background-color: rgb(201, 199, 199);
+    font-weight: bold;
+  }
