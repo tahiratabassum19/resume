@@ -2,18 +2,51 @@
 
 .h1 {
   position: relative;
-  font-size: 70px;
-  text-align: center;
-  color: rgb(9, 66, 51);
+  font-size: 60px;
+  text-align: left;
+  left:90px;
+  font-family: cursive;
+  color: rgb(244, 252, 250);
 }
 
-
+.subheader{
+  position: relative;
+  font-size: 30px;
+  text-align: left;
+  left:90px;
+  color: rgb(244, 252, 250);
+}
 body {
  
-    background-color: lightgrey;
-    background-image: url(https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVjcnVpdCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=60);
+    background-color: rgb(9, 32, 85);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5saBS61YbJtKmKb6r5oQMVRluggHUepbNQ&usqp=CAU');
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0;
-    padding: 0;
+
+
+    
+  
 }
+
+.left-image {
+  position: fixed;
+  bottom: 20px;
+  left: 90px;
+  width: 600px; 
+  height: 350px; 
+}
+
+
+.paragraph {
+    position: fixed;
+    top: 90px;
+    right: 100px;
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    font-size: 50px;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    color: rgb(209, 232, 240);
+  }
+  
